@@ -1,6 +1,5 @@
 # Pipedemo
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
+This project demonstrate pipes concept using an example of converting a temp from Fahrenheit to Celsius and vice versa 
 
 ## Development server
 
